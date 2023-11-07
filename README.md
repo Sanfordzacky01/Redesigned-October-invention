@@ -1,2 +1,2 @@
-# Redesigned-October-invention
-This an am weather invention series
+# Redesigned-Octo-invention
+This an all weather invention series
